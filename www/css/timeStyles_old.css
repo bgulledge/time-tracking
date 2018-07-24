@@ -1,0 +1,189 @@
+/* Global */
+
+div label {
+	color : #FFFFFF !important;
+}
+
+div button {
+	background-color : #298fc2 !important;
+	color : #FFFFFF !important;
+}
+
+div footer {
+	background-color : #1ac6ff !important;
+}
+
+/* Log in page changes */
+
+#userIdInput1-inner {
+	text-align: left;
+}
+
+#passwordInput1-inner {
+	text-align: left;
+}
+
+.background {
+	background-color : #696158;
+	color : #FFFFFF;
+}
+
+.inputPadding{
+	padding: 0px 10px 0px 10px;
+}
+
+.textWhite {
+	color : #FFFFFF !important;
+}
+
+.textServer {
+	padding: 20px 0px 20px 0px;
+	font-style: italic;
+}
+
+/* Activity and Project list changes */
+
+#serverSelectDrop > label {
+	color : #696158 !important;
+}
+
+#ProjectsListTable > table > tbody > tr {
+	background-color : #1ac6ff !important;
+}
+
+#ProjectsListTable > table > tbody > tr > td > span{
+	color : #FFFFFF !important;
+}
+
+#projSearchField > div > button {
+	background-color : #1ac6ff !important;
+	color : #FFFFFF !important;
+}
+
+#activitySearchField > div > button {
+	background-color : #1ac6ff !important;
+	color : #FFFFFF !important;
+}
+
+#ActivityListTable > table > tbody > tr {
+	background-color : #1ac6ff !important;
+}
+
+#ActivityListTable > table > tbody > tr > td > span{
+	color : #FFFFFF !important;
+}
+
+/*Time List page changes */
+.background2 {
+	background-color : #e8e6e3;
+}
+
+.textSize {
+	width: 100%;
+}
+
+.textBold {
+	font-weight: bold;
+}
+
+.textItalic {
+	font-style: italic;
+}
+
+.textBoldSize {
+	width: 100%;
+	font-weight: bold;
+}
+
+/* Hour entry row changes */
+
+.wkendHours { 
+	text-align:center;	
+}
+
+.wkendHours .sapMInputBaseInner {
+	background-color : #e5e5e5 !important;
+}
+
+.wkdayHours { 
+	text-align:center;
+	
+}
+
+.wkdayHours .sapMInputBaseInner {
+	background-color : #f2f2f2 !important;
+}
+
+span[id^='deleteIcon-idTimeValuesTable'] {
+	color : #ff0000 !important;
+	font-size: 1.25rem !important;
+}
+
+span[id^='dayText'] {
+	color : #d1cdc7 !important;
+}
+
+div[id^='dayVbox'] {
+	text-align:center !important;
+}
+
+.flexStyle {
+	flex-wrap: wrap;
+}
+
+/* Calendar changes */
+
+#theCal {
+	background-color : #696158;
+}
+
+#theCal > span {
+	color: #FFFFFF;
+}
+
+#CalHolder td {
+	background-color : #696158;
+	padding: 0.2rem 0.5rem !important;
+}
+
+.sapMeCalendarMonth > div {
+	color: #FFFFFF !important;
+}
+
+.sapMeCalendarMonthDayNames .sapMeCalendarMonthDay {
+	color: #FFFFFF !important;
+}
+
+.sapMeCalendarMonthDays {
+	margin-bottom: 0.1rem !important;
+}
+
+.sapMeCalendarApproval>.sapMeCalendarMonth>div.sapMeCalendarMonthDays>.sapMeCalendarMonthDay.sapMeCalendarDayNow:before {
+	border:none !important;
+}
+
+.sapMPage header {
+	background-color : #1ac6ff !important;
+}
+
+#valueTotalHours {
+	    font-size: 1.75rem !important;
+}
+
+/* Dialog changes */
+
+.sapMDialog header {
+	background-color : #696158 !important;
+}
+
+.textPadding {
+	padding: 15px 5px;
+}
+
+/* Icon changes */
+
+.sapUiIcon {
+	color: #FFFFFF !important;
+}
+
+
